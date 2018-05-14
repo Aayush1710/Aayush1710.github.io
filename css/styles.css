@@ -249,7 +249,7 @@ footer{
     background-size: 25vw 25vw;
     background-position: center;
     width: 20vw;
-    height: 20vw;
+    height: 25vw;
     border-radius: 6vw;
     -webkit-border-radius: 6vw;
     -moz-border-radius: 6vw;
@@ -272,7 +272,7 @@ footer{
 #lead-content h2{
     color:#827bb5;
     font-weight:500;
-    font-size:5em;
+    font-size:3em;
     margin-bottom:15px
 }
 #lead-overlay{
