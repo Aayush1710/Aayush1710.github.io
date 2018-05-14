@@ -83,7 +83,7 @@ header a{
 header a:hover{
     color:#fff;
     text-decoration:none;
-    background:#302384;
+    background:#eee;
     border-radius:4px
 }
 header a:focus{
@@ -242,11 +242,11 @@ footer{
     background: url("../images/AP.JPG") no-repeat;
     background-size: 25vw 25vw;
     background-position: center;
-    width: 30vw;
-    height: 30vw;
-    border-radius: 100vw;
-    -webkit-border-radius: 100vw;
-    -moz-border-radius: 100vw;
+    width: 27vw;
+    height: 35vw;
+    border-radius: 200vw;
+    -webkit-border-radius: 200vw;
+    -moz-border-radius: 200vw;
 }
 
 .skillRow {
