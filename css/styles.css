@@ -325,7 +325,8 @@ footer{
 }
 #about p{
     color:#74808a;
-    margin:0
+    margin:0;
+    padding-bottom: 10px;
 }
 #experience{
     padding:50px 15px;
