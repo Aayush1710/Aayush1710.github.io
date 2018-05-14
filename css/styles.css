@@ -557,8 +557,8 @@ footer{
     border-radius:4px;
     border:none;
     margin-bottom:10px;
-    background:#fff;
-    color:#aca7cd;
+    background:#302384;
+    color:#fff;
     transition:.5s ease all
 }
 #contact-form input::-webkit-input-placeholder,#contact-form textarea::-webkit-input-placeholder{
@@ -577,7 +577,7 @@ footer{
 }
 #contact-form input:focus,#contact-form textarea:focus{
     outline:none;
-    background:#16527a
+    background:#1c154f
 }
 #contact-form textarea{
     height:150px;
