@@ -238,15 +238,13 @@ footer{
 
 
 .DP {
-	border: 1px solid #ddd;
-    padding: 5px;
     margin: 1em auto;
-    background: url("../images/AP.JPG") no-repeat;
+    background: url("../images/AP.jpg") no-repeat;
     background-size: 15vw 15vw;
     background-position: center;
     width: 20vw;
     height: 20vw;
-    border-radius: 10px;
+    border-radius: 50vw;
 }
 
 .skillRow {
