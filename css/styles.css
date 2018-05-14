@@ -83,7 +83,7 @@ header a{
 header a:hover{
     color:#302384;
     text-decoration:none;
-    background:#eee;
+    background:#fff;
     border-radius:4px
 }
 header a:focus{
