@@ -242,9 +242,11 @@ footer{
     background: url("../images/AP.JPG") no-repeat;
     background-size: 15vw 15vw;
     background-position: center;
-    width: 15vw;
-    height: 15vw;
+    width: 20vw;
+    height: 20vw;
     border-radius: 8vw;
+    -webkit-border-radius: 6vw;
+    -moz-border-radius: 6vw;
 }
 
 .skillRow {
