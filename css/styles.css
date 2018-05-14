@@ -244,7 +244,7 @@ footer{
     background-position: center;
     width: 20vw;
     height: 20vw;
-    border-radius: 50vw;
+    border-radius: 6vw;
 }
 
 .skillRow {
@@ -275,7 +275,7 @@ footer{
     right:0;
     bottom:0;
     left:0;
-    background:rgba(33,125,187,0.8);
+    background:#302384;
     z-index:1
 }
 #lead-down{
