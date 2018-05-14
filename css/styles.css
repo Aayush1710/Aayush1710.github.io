@@ -240,13 +240,13 @@ footer{
 .DP {
     margin: 1em auto;
     background: url("../images/AP.JPG") no-repeat;
-    background-size: 15vw 15vw;
+    background-size: 25vw 25vw;
     background-position: center;
-    width: 20vw;
+    width: 30vw;
     height: 30vw;
-    border-radius: 6vw;
-    -webkit-border-radius: 6vw;
-    -moz-border-radius: 6vw;
+    border-radius: 100vw;
+    -webkit-border-radius: 100vw;
+    -moz-border-radius: 100vw;
 }
 
 .skillRow {
