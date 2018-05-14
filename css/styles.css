@@ -67,7 +67,7 @@ header{
 }
 header ul{
     display:block;
-    background:#fff;
+    background:#302384;
     text-align:right;
     padding:10px;
     margin:0;
@@ -77,7 +77,7 @@ header li{
 }
 header a{
     display:block;
-    color:#302384;
+    color:#fff;
     padding:10px
 }
 header a:hover{
