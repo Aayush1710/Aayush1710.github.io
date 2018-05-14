@@ -14,6 +14,12 @@ body{
     font-family:'Lato', sans-serif;
     font-size:16px
 }
+
+.mainFont {
+    font-family: 'Josefin Slab', sans-serif;
+    text-transform: uppercase;
+}
+
 body.active{
     overflow:hidden;
     z-index:-1
@@ -244,9 +250,9 @@ footer{
     background-position: center;
     width: 20vw;
     height: 20vw;
-    border-radius: 100vw;
-    -webkit-border-radius: 100vw;
-    -moz-border-radius: 100vw;
+    border-radius: 6vw;
+    -webkit-border-radius: 6vw;
+    -moz-border-radius: 6vw;
 }
 
 .skillRow {
@@ -257,7 +263,7 @@ footer{
 }
 #lead-content h1{
     color:#fff;
-    font-weight:900;
+    font-weight:600;
     font-size:5em;
     text-transform:uppercase;
     letter-spacing:0.05em;
@@ -266,7 +272,7 @@ footer{
 #lead-content h2{
     color:#827bb5;
     font-weight:500;
-    font-size:2.25em;
+    font-size:5em;
     margin-bottom:15px
 }
 #lead-overlay{
