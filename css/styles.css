@@ -239,12 +239,14 @@ footer{
 
 .DP {
     margin: 1em auto;
-    background: url("../images/APas.jpg") no-repeat;
+    background: url("../images/AP.JPG") no-repeat;
     background-size: 15vw 15vw;
     background-position: center;
     width: 20vw;
     height: 20vw;
     border-radius: 6vw;
+    -webkit-border-radius: 6vw;
+    -moz-border-radius: 6vw;
 }
 
 .skillRow {
@@ -275,7 +277,7 @@ footer{
     right:0;
     bottom:0;
     left:0;
-    background: #302384;
+    background: rgba(48,35,132,1);
     z-index:1
 }
 #lead-down{
