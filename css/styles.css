@@ -67,7 +67,7 @@ header{
 }
 header ul{
     display:block;
-    background:#fff;
+    background:#302384;
     text-align:right;
     padding:10px;
     margin:0;
@@ -77,13 +77,13 @@ header li{
 }
 header a{
     display:block;
-    color:#302384;
+    color:#fff;
     padding:10px
 }
 header a:hover{
-    color:#fff;
+    color:#302384;
     text-decoration:none;
-    background:#eee;
+    background:#fff;
     border-radius:4px
 }
 header a:focus{
@@ -242,11 +242,11 @@ footer{
     background: url("../images/AP.JPG") no-repeat;
     background-size: 25vw 25vw;
     background-position: center;
-    width: 27vw;
-    height: 35vw;
-    border-radius: 200vw;
-    -webkit-border-radius: 200vw;
-    -moz-border-radius: 200vw;
+    width: 10vw;
+    height: 20vw;
+    border-radius: 100vw;
+    -webkit-border-radius: 100vw;
+    -moz-border-radius: 100vw;
 }
 
 .skillRow {
