@@ -67,7 +67,7 @@ header{
 }
 header ul{
     display:block;
-    background:#302384;
+    background:#fff;
     text-align:right;
     padding:10px;
     margin:0;
@@ -77,13 +77,13 @@ header li{
 }
 header a{
     display:block;
-    color:#fff;
+    color:#302384;
     padding:10px
 }
 header a:hover{
-    color:#302384;
+    color:#fff;
     text-decoration:none;
-    background:#fff;
+    background:#302384;
     border-radius:4px
 }
 header a:focus{
@@ -243,7 +243,7 @@ footer{
     background-size: 15vw 15vw;
     background-position: center;
     width: 20vw;
-    height: 20vw;
+    height: 30vw;
     border-radius: 6vw;
     -webkit-border-radius: 6vw;
     -moz-border-radius: 6vw;
