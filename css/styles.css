@@ -71,8 +71,6 @@ header ul{
     text-align:right;
     padding:10px;
     margin:0;
-    border-bottom-right-radius:4px;
-    border-bottom-left-radius:4px
 }
 header li{
     display:inline-block
@@ -237,6 +235,20 @@ footer{
     transform:translate(-50%, -50%);
     text-align:center
 }
+
+
+.DP {
+    margin: 1em auto;
+    background: url("../images/AP.JPG") no-repeat;
+    background-size: 15vw 15vw;
+    background-position: center;
+    width: 12vw;
+    height: 12vw;
+    border-radius: 6vw;
+    -webkit-border-radius: 6vw;
+    -moz-border-radius: 6vw;
+}
+
 .skillRow {
     margin: 2em auto;
 }
