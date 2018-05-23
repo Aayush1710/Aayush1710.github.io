@@ -250,9 +250,9 @@ footer{
     background-position: center;
     width: 20vw;
     height: 20vw;
-    border-radius: 6vw;
-    -webkit-border-radius: 6vw;
-    -moz-border-radius: 6vw;
+    border-radius: 8vw;
+    -webkit-border-radius: 8vw;
+    -moz-border-radius: 8vw;
 }
 
 .skillRow {
