@@ -263,7 +263,7 @@ footer{
 }
 #lead-content h1{
     color:#fff;
-    font-weight:600;
+    font-weight:500;
     font-size:5em;
     text-transform:uppercase;
     letter-spacing:0.05em;
@@ -271,8 +271,8 @@ footer{
 }
 #lead-content h2{
     color:#827bb5;
-    font-weight:500;
-    font-size:3em;
+    font-weight:400;
+    font-size:2em;
     margin-bottom:15px
 }
 #lead-overlay{
