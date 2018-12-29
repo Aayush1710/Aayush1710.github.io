@@ -535,14 +535,13 @@ footer{
 
 .skillTiles {
     text-align: left;
-    background: #fff;
 }
 #skills li{
     display:inline-block;
     margin:7px;
     padding:5px 10px;
     color:#374054;
-    background:#e4e4ea;
+    background: #fff;
     list-style:none;
     cursor:default;
     font-size:1.2em
