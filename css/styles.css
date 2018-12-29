@@ -52,6 +52,36 @@ body.active{
     content:none
 }
 
+
+
+.no-js #projects-timeline>div{
+    background:#fff;
+    padding:10px;
+    margin-bottom:10px;
+    border:1px solid #dcd9d9
+}
+.no-js #projects-timeline>div h3{
+    font-size:1.5em;
+    font-weight:300;
+    color:#374054;
+    display:inline-block;
+    margin:0
+}
+.no-js #projects-timeline>div h4{
+    font-size:1.2em;
+    font-weight:300;
+    color:#7e8890;
+    margin:0 0 15px 0
+}
+.no-js #projects-timeline>div p{
+    color:#74808a;
+    font-size:0.9em;
+    margin:0
+}
+.no-js #projects-timeline:before,.no-js #projects-timeline:after{
+    content:none
+}
+
 @keyframes dropHeader{
     0%{
         transform:translateY(-100%)
@@ -541,7 +571,7 @@ footer{
     margin:7px;
     padding:5px 10px;
     color:#374054;
-    background: #fff;
+    background:#e4e4ea;
     list-style:none;
     cursor:default;
     font-size:1.2em
